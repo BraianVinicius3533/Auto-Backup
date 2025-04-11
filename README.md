@@ -14,16 +14,6 @@ O Auto Backup é um plugin para QGIS que realiza backups automáticos das camada
 
 ## Instalação
 
-### Via Gerenciador de Plugins QGIS
-
-1. Abra o QGIS
-2. Vá para "Complementos" > "Gerenciar e Instalar Complementos..."
-3. Selecione a guia "Todos"
-4. Pesquise por "Auto Backup"
-5. Clique em "Instalar Plugin"
-
-### Instalação Manual
-
 1. Baixe o arquivo ZIP do plugin
 2. Abra o QGIS
 3. Vá para "Complementos" > "Gerenciar e Instalar Complementos..."
