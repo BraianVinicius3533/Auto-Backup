@@ -1,0 +1,19 @@
+[general]
+name=Auto Backup
+qgisMinimumVersion=3.0
+description=Cria backup automático das camadas em edição no QGIS
+version=1.0
+author=Auto Backup
+email:Braian Vinicius Cordeiro de Araujo
+
+about=Este plugin cria backups automáticos das camadas que estão sendo editadas no QGIS. Ele salva as camadas em formato GeoPackage a intervalos regulares definidos pelo usuário.
+
+tracker=https://github.com/BraianVinicius3533/Auto-Backup/issues
+repository=https://github.com/BraianVinicius3533/Auto-Backup.git
+hasProcessingProvider=no
+tags=backup,geopackage,edição,automático
+homepage=https://github.com/BraianVinicius3533/Auto-Backup
+category=Plugins
+
+experimental=False
+deprecated=False
