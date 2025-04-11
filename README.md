@@ -1,7 +1,5 @@
 # Auto Backup - Plugin QGIS
 
-![Logo do Plugin](icon.png)
-
 ## Descrição
 
 O Auto Backup é um plugin para QGIS que realiza backups automáticos das camadas vetoriais em edição. Projetado para evitar a perda de dados durante sessões de edição, o plugin monitora em intervalos regulares todas as camadas que estão sendo editadas e cria cópias de segurança em um diretório de sua escolha.
